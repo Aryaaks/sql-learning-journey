@@ -55,5 +55,5 @@ This repo is a living portfolio of my progress in SQL and data analysis.
 
 **Name**: `sql-learning-journey`  
 **Status**: Ongoing 📈  
-**License**: MIT (add if needed)
+
 
