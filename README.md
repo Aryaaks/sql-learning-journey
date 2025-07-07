@@ -1,12 +1,12 @@
 # SQL Learning Journey 📘
 
-Welcome to my SQL learning journey! This repository includes practice exercises, projects, and sample data sets as I learn SQL through YouTube and hands-on projects.
+Welcome to my SQL learning journey! This repository includes practice exercises, projects, and sample datasets as I learn SQL through YouTube and hands-on projects.
 
 ---
 
 ## 📁 Project: Parks and Recreation Database
 
-This project simulates a fictional Parks and Recreation department and contains:
+This project simulates a fictional Parks and Recreation department and includes:
 
 - Employee demographics and salaries
 - Department information
@@ -14,38 +14,46 @@ This project simulates a fictional Parks and Recreation department and contains:
 
 ### 🧩 Files
 
-| File Name                        | Description                              |
-|----------------------------------|------------------------------------------|
-| `01_parks_and_recreation_schema.sql` | Contains all `CREATE` and `INSERT` statements for setting up the database. |
+| File Name                        | Description                                                  |
+|----------------------------------|--------------------------------------------------------------|
+| `01_parks_and_recreation_schema.sql` | Contains all `CREATE` and `INSERT` statements to set up the database |
 
 ---
 
-## 🛠 SQL Skills Used
+## 🛠 SQL Skills Practiced
 
 - Creating databases and tables
 - Inserting data into tables
 - Using primary keys and auto-increment
-- Understanding relationships between tables
+- Understanding table relationships (foreign keys)
 
 ---
 
 ## 🚀 Next Steps
 
-- Add `SELECT` queries for joining tables
-- Explore filtering with `WHERE`, `GROUP BY`, `HAVING`
-- Practice aggregate functions
+- Add `SELECT` queries to explore and join tables
+- Practice filtering using `WHERE`, `GROUP BY`, `HAVING`
+- Work with aggregate functions like `SUM`, `AVG`, `COUNT`
+- Create sample queries for reports and dashboards
 
 ---
 
 ## 📚 Learning Source
 
-- YouTube SQL Tutorials *(Add link if you’re following a specific one)*
+- [Alex The Analyst - SQL Beginner Full Course](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I’m currently refreshing and improving my SQL skills through structured practice and public documentation of my learning.
+I’m currently refreshing and improving my SQL skills through structured practice and public documentation of my learning.  
+This repo is a living portfolio of my progress in SQL and data analysis.
 
-# sql-learning-journey
-A personal journey of learning SQL — includes practice queries and mini-projects.
+---
+
+## ⭐ Repo Info
+
+**Name**: `sql-learning-journey`  
+**Status**: Ongoing 📈  
+**License**: MIT (add if needed)
+
